@@ -1,0 +1,7 @@
+diabetesX=read.csv("C:/Users/saite/Downloads/diabetes.csv")
+A=c(diabetesX$Age)
+#View(diabetesX)
+Mean=mean(A)
+Decimalscaling=(A/100)
+print(Decimalscaling)
+plot(Decimalscaling)
