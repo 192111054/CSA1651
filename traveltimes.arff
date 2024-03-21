@@ -1,0 +1,14 @@
+S.NO	ATTRIBUTE	TYPE
+1.		Date	Nominal
+2.		Start Time	Nominal
+3.		Day Of Week	Nominal
+4.		Going To	Nominal
+5.		Distance	Numeric
+6.		Max Speed	Numeric
+7.		Avg Speed	Numeric
+8.		Avg Moving Speed	Numeric
+9.		Fuel Economy	Nominal
+10.		Total Time	Numeric
+11.		Moving Time	Numeric
+12.		Comments	Nominal
+13.		Take 407 All	Nominal
